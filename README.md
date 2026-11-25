@@ -1,5 +1,5 @@
 
-<!-👋 Hi, I'm Pranav Sarjerao Gadage
+👋 Hi, I'm Pranav Sarjerao Gadage
 
 💻 Aspiring Software Developer | Diploma IT Student
 
@@ -57,4 +57,3 @@ To become a skilled Software Developer and gain practical industry experience.
 ⭐ Thanks for visiting my profile!-
 **pranavgadage15-lgtm/pranavgadage15-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
